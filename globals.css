@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS variable for beige background */
+:root {
+  --beige: #f5f5dc;
+}
